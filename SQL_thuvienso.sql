@@ -43,7 +43,6 @@ create table sach(
 	tacgia nvarchar(50) not null,
 	tensach nvarchar(50) not null,
 	namxb int not null,
-	ngaydang date not null,
 	constraint pk_sach primary key (masach))
 	go
 
