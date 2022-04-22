@@ -473,10 +473,10 @@ a:focus {
             position: relative;
             .blog_date {
                 position: absolute;
-                left: 25px;
+                left: 10px;
                 bottom: 0;
-                padding: 10px 25px;
-                font-size: 18px;
+                padding: 5px 10px;
+                font-size: 12px;
                 background-color: $primary2;
                 margin: 0;
                 display: flex;
@@ -568,11 +568,12 @@ a:focus {
         margin-bottom: 30px;
     }
     .info_contact {
+        margin-left: 15px;
         .contact_link_box {
             display: flex;
             flex-direction: column;
             a {
-                margin: 5px 0;
+                margin: 15px 0;
                 color: $white;
                 i {
                     margin-right: 5px;
