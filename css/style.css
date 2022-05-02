@@ -568,10 +568,10 @@ a:focus {
 
 .blog_section .box .img-box .blog_date {
   position: absolute;
-  left: 25px;
+  left: 10px;
   bottom: 0;
-  padding: 10px 25px;
-  font-size: 18px;
+  padding: 5px 10px;
+  font-size: 12px;
   background-color: #041c32;
   margin: 0;
   display: -webkit-box;
@@ -696,6 +696,10 @@ a:focus {
   margin-bottom: 30px;
 }
 
+.info_section .info_contact {
+  margin-left: 15px;
+}
+
 .info_section .info_contact .contact_link_box {
   display: -webkit-box;
   display: -ms-flexbox;
@@ -707,7 +711,7 @@ a:focus {
 }
 
 .info_section .info_contact .contact_link_box a {
-  margin: 5px 0;
+  margin: 15px 0;
   color: #ffffff;
 }
 
